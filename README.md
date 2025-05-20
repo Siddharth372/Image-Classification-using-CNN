@@ -42,8 +42,7 @@ The CNN includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-classification-cnn.git
-   cd image-classification-cnn
+   git clone https://github.com/Siddharth372/Image-Classification-using-CNN.git
 2. Open the notebook:
    jupyter notebook Image_Classification_using_CNN.ipynb
 3. You can install the dependencies by running:
