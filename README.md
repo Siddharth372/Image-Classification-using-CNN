@@ -46,4 +46,6 @@ The CNN includes:
    cd image-classification-cnn
 2. Open the notebook:
    jupyter notebook Image_Classification_using_CNN.ipynb
-3. Run the cells sequentially to train and evaluate the model.
+3. You can install the dependencies by running:
+   pip install -r requirements.txt
+4. Run the cells sequentially to train and evaluate the model.
